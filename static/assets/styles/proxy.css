@@ -1,0 +1,15 @@
+.search-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    border-style: solid;
+    border-color: black;
+    border-width: 10px;
+}
+
+.main-search {
+    width: 200px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
